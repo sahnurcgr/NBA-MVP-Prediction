@@ -25,7 +25,7 @@ Standardized features using StandardScaler to ensure consistency.
 
 Model Selection & Experiments:
 
-Tested 3 different models: Linear Regression, Random Forest, and [Denediğin diğer model].
+Tested 3 different models: Linear Regression, Random Forest, and XGBOOST.
 
 Key Finding: Using 20 years of data instead of 10 years significantly improved the model's ability to capture long-term MVP trends.
 
